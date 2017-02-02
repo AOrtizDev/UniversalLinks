@@ -1,11 +1,15 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-    {
-      "appID": "PJKNM48LPC.com.serti.aon",
-      "paths": ["*"]
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "PJKNM48LPC.com.serti.aon",
+                "paths": ["/SL/Account/*"]
+            },
+            {
+                "appID": "NQ4G34JLZ3.com.serti.aonpocket",
+                "paths": ["/SL/Account/*"]
+            }
+        ]
     }
-    ]
-  }
 }
