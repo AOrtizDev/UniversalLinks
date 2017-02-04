@@ -4,11 +4,17 @@
         "details": [
             {
                 "appID": "PJKNM48LPC.com.serti.aon",
-                "paths": ["/SL/Account/*", "/SL/Handlers/*"]
+                "paths": [
+                    "/SL/Account/*",
+                    "/SL/Handlers/*"
+                ]
             },
             {
                 "appID": "NQ4G34JLZ3.com.serti.aonpocket",
-                "paths": ["/SL/Account/*", "/SL/Handlers/*"]
+                "paths": [
+                    "/SL/Account/*",
+                    "/SL/Handlers/*"
+                ]
             }
         ]
     }
